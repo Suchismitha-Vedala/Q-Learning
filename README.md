@@ -13,7 +13,7 @@ IDEALOGY:
 * When the agent reaches a drop state and the agent does have a block, it will drop the block. 
 * When the agent picks, its maximum value is reduced while when agent drops, its value is incremented.
 
-VISUAL WORLD
+VISUALISATION OF GAME
 
 ![Visual World](https://github.com/Suchismitha-Vedala/Q-Learning/blob/master/Picture1.png)
 
@@ -28,5 +28,6 @@ USAGE:
 
   3. The program saves the Q_values in a csv file
   4. The number of operators performance measure is printed to terminal. SInce there can be more than 1 time a terminal can be reached in an experiment, total number of operators required to reach a terminal state is calculated everytime terminal is reached. ALL these are stored in num_operators array ;printed to the terminal
+
 
 
