@@ -13,6 +13,9 @@ IDEALOGY:
 * When the agent reaches a drop state and the agent does have a block, it will drop the block. 
 * When the agent picks, its maximum value is reduced while when agent drops, its value is incremented.
 
+VISUAL WORLD
+
+![Visual World](https://github.com/Suchismitha-Vedala/Q-Learning/blob/master/Picture1.png)
 
 
 
